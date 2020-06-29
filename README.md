@@ -1,2 +1,1 @@
-# Concepts
-The concepts of darkpool
+# whitepaper
